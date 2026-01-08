@@ -1,0 +1,9 @@
+__pycache__
+.venv
+*.pyc
+iris_model.pkl
+dist
+build
+*.egg-info
+.pytest_cache
+.git
